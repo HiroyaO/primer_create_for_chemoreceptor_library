@@ -1,5 +1,9 @@
 # Create primer for all receptors
 
+# install primer3
+
+pip install biopython primer3-py # opptional
+
 # import libraries
 
 import pandas as pd
